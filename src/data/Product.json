@@ -52,8 +52,8 @@
     "id": "2",
     "category": "fashion",
     "type": "t-shirt",
-    "name": "Raglan Sleeve T-shirt",
-    "gender": "women",
+    "name": "Hustle Royal",
+    "gender": "men",
     "new": true,
     "sale": false,
     "rate": 5,
@@ -86,14 +86,13 @@
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/material/IMG_8275.jpg"
     ],
     "images": [
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png",
-      "/images/product/1000x1000.png"
+      "/images/product/material/IMG_8274.jpg",
+      "/images/product/material/IMG_8001.jpg",
+      "/images/product/material/IMG_8278.jpg",
+      "/images/product/material/IMG_8003.jpg"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -192,7 +191,6 @@
       }
     ],
     "thumbImage": [
-      "/images/product/1000x1000.png",
       "/images/product/1000x1000.png"
     ],
     "images": [
